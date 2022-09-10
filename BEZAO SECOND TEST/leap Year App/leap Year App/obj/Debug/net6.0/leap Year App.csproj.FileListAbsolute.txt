@@ -1,0 +1,15 @@
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\bin\Debug\net6.0\leap Year App.exe
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\bin\Debug\net6.0\leap Year App.deps.json
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\bin\Debug\net6.0\leap Year App.runtimeconfig.json
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\bin\Debug\net6.0\leap Year App.dll
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\bin\Debug\net6.0\leap Year App.pdb
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.csproj.AssemblyReference.cache
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.AssemblyInfo.cs
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.dll
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\refint\leap Year App.dll
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.pdb
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\leap Year App.genruntimeconfig.cache
+C:\Users\Emmanuel\Desktop\C#\leap Year App\leap Year App\obj\Debug\net6.0\ref\leap Year App.dll
